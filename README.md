@@ -55,6 +55,8 @@ Server API: https://mentorlagbe-server-ruby.vercel.app
 npm install
 npm run seed   # optional demo data
 npm run dev
+```
+
 
 ## 🛠️ Repositories
 - Client: https://github.com/sobat-2930/mentorlagbe-client
