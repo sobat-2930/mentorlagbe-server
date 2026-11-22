@@ -14,6 +14,11 @@
 ## 🎯 Purpose
 The backend of MentorLagbe. It handles authentication, role-based access, tuition moderation, student applications and Stripe subscription payments for Students, Tutors and Admins.
 
+## 🔗 Live URL
+**https://mentorlagbe-client-lw3ikbgn1-sobat1.vercel.app**
+
+Server API: https://mentorlagbe-server-ruby.vercel.app
+
 
 ## 🔑 Admin Credentials
 | Role | Email | Password |
@@ -50,5 +55,10 @@ The backend of MentorLagbe. It handles authentication, role-based access, tuitio
 npm install
 npm run seed   # optional demo data
 npm run dev
+
+## 🛠️ Repositories
+- Client: https://github.com/sobat-2930/mentorlagbe-client
+
+- Server: https://github.com/sobat-2930/mentorlagbe-server
 
 
