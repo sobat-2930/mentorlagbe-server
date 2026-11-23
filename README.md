@@ -15,7 +15,7 @@
 The backend of MentorLagbe. It handles authentication, role-based access, tuition moderation, student applications and Stripe subscription payments for Students, Tutors and Admins.
 
 ## 🔗 Live URL
-**https://mentorlagbe-client-lw3ikbgn1-sobat1.vercel.app**
+**https://mentorlagbe-client-ten.vercel.app**
 
 Server API: https://mentorlagbe-server-ruby.vercel.app
 
